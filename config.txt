@@ -1,6 +1,6 @@
-token=NDg3NjQ1MDUyMDA1Mzg0MjAy.DnnCOg.nchRixdCmEQ0J-jMQzd-pp0Z8k8
-owner=450711003324350485 
-prefix=2
-game=Skillful Community.
+token=NTE1MjkwNDIwODEzNDk2MzIy.Dti9PQ.nM90ReQxeFB-dYQ8RIhJZpRZI-o
+owner=315477215620104193 
+prefix=A
+game=Wanna Die  !!!
 stayinchannel=true
 songinstatus=true
